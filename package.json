@@ -1,0 +1,23 @@
+{
+  "name": "@w11k/tslint-presets",
+  "version": "0.0.1",
+  "description": "tslint preset used a W11K",
+  "keywords": [
+    "tslint",
+    "typescript",
+    "angular"
+  ],
+  "author": "Kai Henzler",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w11k/tslint-presets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w11k/tslint-presets/issues"
+  },
+  "homepage": "https://github.com/w11k/tslint-presets#readme",
+  "devDependencies": {
+    "tslint": "^6.1.2"
+  }
+}
