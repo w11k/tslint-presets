@@ -12,7 +12,7 @@ After adding the package to your project, create or update your `tslint.json` fi
 
 ```json
 {
-  "extends": "@w11k/tslint-presets",
+  "extends": "@w11k/tslint-presets/angular.json",
   "rules": {}
 }
 ```

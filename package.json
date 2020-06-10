@@ -1,6 +1,6 @@
 {
   "name": "@w11k/tslint-presets",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "tslint preset used a W11K",
   "keywords": [
     "tslint",
@@ -19,5 +19,9 @@
   "homepage": "https://github.com/w11k/tslint-presets#readme",
   "devDependencies": {
     "tslint": "^6.1.2"
+  },
+  "dependencies": {
+    "@w11k/rx-ninja": "^4.1.0",
+    "codelyzer": "^5.2.2"
   }
 }
