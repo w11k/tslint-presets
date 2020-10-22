@@ -72,7 +72,13 @@
             true,
             "single"
         ],
-        "trailing-comma": false,
+        "trailing-comma": [
+            true,
+            {
+                "multiline": "always",
+                "singleline": "never"
+            }
+        ],
         "no-output-on-prefix": true,
         "no-inputs-metadata-property": true,
         "no-outputs-metadata-property": true,
@@ -84,6 +90,10 @@
         "component-class-suffix": true,
         "directive-class-suffix": true,
         "one-variable-per-declaration": false,
+        "no-var-keyword": true,
+        "prefer-for-of": true,
+        "await-promise": true,
+        "no-string-throw": true,
         "rx-ninja-subscribe-takeuntil": true,
         "rx-ninja-subscribe-in-subscribe": true
     },
