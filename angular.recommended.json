@@ -95,7 +95,13 @@
         "await-promise": true,
         "no-string-throw": true,
         "rx-ninja-subscribe-takeuntil": true,
-        "rx-ninja-subscribe-in-subscribe": true
+        "rx-ninja-subscribe-in-subscribe": true,
+        "whitespace": [
+            true,
+            "check-module",
+            "check-separator",
+            "check-postbrace"
+        ]
     },
     "jsRules": {}
 }
