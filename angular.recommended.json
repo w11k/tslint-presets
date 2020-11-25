@@ -99,8 +99,7 @@
         "whitespace": [
             true,
             "check-module",
-            "check-separator",
-            "check-postbrace"
+            "check-separator"
         ]
     },
     "jsRules": {}
