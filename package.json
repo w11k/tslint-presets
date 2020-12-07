@@ -1,6 +1,6 @@
 {
   "name": "@w11k/tslint-presets",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "tslint preset used a W11K",
   "keywords": [
     "tslint",
