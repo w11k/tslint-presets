@@ -94,6 +94,7 @@
         "prefer-for-of": true,
         "await-promise": true,
         "no-string-throw": true,
+        "strict-boolean-expressions": true,
         "rx-ninja-subscribe-takeuntil": true,
         "rx-ninja-subscribe-in-subscribe": true,
         "whitespace": [
