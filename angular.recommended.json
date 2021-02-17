@@ -95,6 +95,8 @@
         "await-promise": true,
         "no-string-throw": true,
         "strict-boolean-expressions": true,
+        "no-any": true,
+        "no-unsafe-any": true,
         "rx-ninja-subscribe-takeuntil": true,
         "rx-ninja-subscribe-in-subscribe": true,
         "whitespace": [
