@@ -1,0 +1,10 @@
+{
+    "defaultSeverity": "warning",
+    "extends": "./typescript.recommended.json",
+    "rulesDirectory": [
+        "codelyzer",
+        "../../@w11k/rx-ninja/dist/bundle/tslint_rules"
+    ],
+    "rules": {},
+    "jsRules": {}
+}

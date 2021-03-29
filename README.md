@@ -10,9 +10,26 @@ npm install -D @w11k/tslint-presets
 ## Usage
 After adding the package to your project, create or update your `tslint.json` file:
 
+### Angular
 ```json
 {
   "extends": "@w11k/tslint-presets/angular.json",
+  "rules": {}
+}
+```
+
+### React
+```json
+{
+  "extends": "@w11k/tslint-presets/react.json",
+  "rules": {}
+}
+```
+
+### Typescript
+```json
+{
+  "extends": "@w11k/tslint-presets/typescript.recommended.json",
   "rules": {}
 }
 ```
